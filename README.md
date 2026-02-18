@@ -173,4 +173,10 @@ hull_reports/captured_hull_images/
 * Integrate cloud deployment with Docker
 * Add database logging for inspection history
 
+
+# Developer Contact
+Designed and Developed by: Kajal Dadas  
+Email: kajaldadas149@gmail.com  
+Contact: +91 7972244559  
+
 ---
